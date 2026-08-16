@@ -16,6 +16,7 @@ auth.json
 control-token
 state.json
 
+temp_auto_push.bat
 # Signing and local credentials must never enter source control.
 .env
 .env.*
@@ -35,3 +36,5 @@ state.json
 !/screenshots/plugin-account-picker-secondary-final.png
 !/screenshots/quota-all-depleted.png
 !/screenshots/rate-limit-reset-accounts.png
+.gitignore
+branch_structure.json
