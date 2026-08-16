@@ -35,3 +35,7 @@ state.json
 !/screenshots/plugin-account-picker-secondary-final.png
 !/screenshots/quota-all-depleted.png
 !/screenshots/rate-limit-reset-accounts.png
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
